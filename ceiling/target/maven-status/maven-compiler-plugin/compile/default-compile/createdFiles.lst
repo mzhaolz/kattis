@@ -13,5 +13,6 @@ META-INF/BenchmarkList
 org/sample/generated/MyBenchmark_jmhType_B2.class
 cs4150/Node.class
 org/sample/generated/MyBenchmark_jmhType_B3.class
+cs4150/BitArrayNode$SparseArray.class
 cs4150/BitArrayNode$InputReader.class
 org/sample/generated/MyBenchmark_jmhType.class
